@@ -22,7 +22,6 @@ target/
 *.zip
 
 # IntelliJ
-*.iml
 .idea/
 *.iws
 *.ipr
@@ -30,15 +29,6 @@ target/
 # VS Code
 .vscode/
 *.code-workspace
-
-# JetBrains
-.gradle/
-*.class
-*.jar
-*.zip
-
-# macOS
-.DS_Store
 
 # Test coverage
 coverage/
