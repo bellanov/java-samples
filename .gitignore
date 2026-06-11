@@ -1,0 +1,49 @@
+# Gradle
+.gradle/
+build/
+out/
+*.class
+
+# IDE
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Maven
+target/
+*.jar
+*.war
+*.zip
+
+# IntelliJ
+*.iml
+.idea/
+*.iws
+*.ipr
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# JetBrains
+.gradle/
+*.class
+*.jar
+*.zip
+
+# macOS
+.DS_Store
+
+# Test coverage
+coverage/
+.jacoco/
+
+# Bin directories
+bin/
+lib/
